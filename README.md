@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding a job(junior position) or internship position for pyhton. 
 - 🌱 I’m currently learning machine learning, big data, and other python libraries
 
-At my GitHub page you can find small project and exercises: Tkinter,Django...
+At my GitHub page you can find small project and exercises: Tkinter,Django,GUI,Kivy,PYgame
 
 A hope that I will put more stuf on GitHub in few days. 
 
